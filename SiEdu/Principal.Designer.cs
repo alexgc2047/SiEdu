@@ -167,13 +167,13 @@
             // 
             // boton_ok
             // 
-            this.boton_ok.Enabled = false;
             this.boton_ok.Location = new System.Drawing.Point(141, 258);
             this.boton_ok.Name = "boton_ok";
             this.boton_ok.Size = new System.Drawing.Size(75, 23);
             this.boton_ok.TabIndex = 8;
             this.boton_ok.Text = "Analizar";
             this.boton_ok.UseVisualStyleBackColor = true;
+            this.boton_ok.Click += new System.EventHandler(this.boton_ok_Click);
             // 
             // Principal
             // 

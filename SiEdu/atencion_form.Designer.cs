@@ -55,7 +55,7 @@
             this.label9 = new System.Windows.Forms.Label();
             this.ind10 = new System.Windows.Forms.CheckBox();
             this.label10 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.enviar_atencion = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // richTextBox1
@@ -317,21 +317,22 @@
             this.label10.TabIndex = 24;
             this.label10.Text = "¿El niño permaneció sentado al menos durante 15 minutos?";
             // 
-            // button1
+            // enviar_atencion
             // 
-            this.button1.Location = new System.Drawing.Point(214, 508);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 26;
-            this.button1.Text = "Aceptar";
-            this.button1.UseVisualStyleBackColor = true;
+            this.enviar_atencion.Location = new System.Drawing.Point(214, 508);
+            this.enviar_atencion.Name = "enviar_atencion";
+            this.enviar_atencion.Size = new System.Drawing.Size(75, 23);
+            this.enviar_atencion.TabIndex = 26;
+            this.enviar_atencion.Text = "Aceptar";
+            this.enviar_atencion.UseVisualStyleBackColor = true;
+            this.enviar_atencion.Click += new System.EventHandler(this.button1_Click);
             // 
             // atencion_form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(509, 543);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.enviar_atencion);
             this.Controls.Add(this.ind10);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.ind9);
@@ -395,6 +396,6 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.CheckBox ind10;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button enviar_atencion;
     }
 }

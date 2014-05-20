@@ -13,8 +13,14 @@ namespace SiEdu
 {
     public partial class Principal : Form
     {
-        public double atencion, imitacion, segins;
-        public Boolean flag_atencion, flag_imitacion, flag_segins;
+        public double atencion { get; set; }
+        public double imitacion { get; set; }
+        public double segins { get; set; }
+        public Boolean flag_atencion { get; set; }
+        public Boolean flag_imitacion { get; set; }
+        public Boolean flag_segins { get; set; }
+        public Button boton_at { get; set; }
+        
         public Principal()
         {
             InitializeComponent();
@@ -46,13 +52,22 @@ namespace SiEdu
 
         private void acercaDeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Sistema Experto para detección de problemas de atención.\n\nElaborado por:\n  -Arroyo Calero Karla Teresa\n  -Gómez Cruz Alejandro\n\n INSTITUTO TECNOLOGICO DE CELAYA", "Acerca de...", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Sistema Experto para detección de problemas de atención.\n\nElaborado por:\n  -Arroyo Calero Karla Teresa\n  -Gómez Cruz Alejandro\n\nAsesor:\n  -María de Jesús Hernández Morales\n\nExperto:\n   -Lic. Viridiana Méndez Rico\n\n INSTITUTO TECNOLOGICO DE CELAYA", "Acerca de...", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void boton_atencion_Click(object sender, EventArgs e)
         {
             atencion_form af = new atencion_form();
             af.Show();
+        }
+
+        private void boton_ok_Click(object sender, EventArgs e)
+        {
+            if (flag_atencion && flag_imitacion && flag_segins)
+            {
+            }
+            else
+                MessageBox.Show("No se han realizado todas las pruebas necesarias", "Error!!! u_u", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
         }
     }
 }
