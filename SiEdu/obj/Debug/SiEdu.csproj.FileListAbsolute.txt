@@ -1,0 +1,19 @@
+c:\users\alejandro gómez cruz\documents\visual studio 2013\Projects\SiEdu\SiEdu\bin\Debug\SiEdu.exe.config
+c:\users\alejandro gómez cruz\documents\visual studio 2013\Projects\SiEdu\SiEdu\bin\Debug\SiEdu.exe
+c:\users\alejandro gómez cruz\documents\visual studio 2013\Projects\SiEdu\SiEdu\bin\Debug\SiEdu.pdb
+c:\users\alejandro gómez cruz\documents\visual studio 2013\Projects\SiEdu\SiEdu\obj\Debug\SiEdu.csprojResolveAssemblyReference.cache
+c:\users\alejandro gómez cruz\documents\visual studio 2013\Projects\SiEdu\SiEdu\obj\Debug\SiEdu.Form1.resources
+c:\users\alejandro gómez cruz\documents\visual studio 2013\Projects\SiEdu\SiEdu\obj\Debug\SiEdu.Properties.Resources.resources
+c:\users\alejandro gómez cruz\documents\visual studio 2013\Projects\SiEdu\SiEdu\obj\Debug\SiEdu.csproj.GenerateResource.Cache
+c:\users\alejandro gómez cruz\documents\visual studio 2013\Projects\SiEdu\SiEdu\obj\Debug\SiEdu.exe
+c:\users\alejandro gómez cruz\documents\visual studio 2013\Projects\SiEdu\SiEdu\obj\Debug\SiEdu.pdb
+C:\Users\Alexis\Source\Workspaces\Sistema Experto para problemas de atención\SiEdu\SiEdu\bin\Debug\SiEdu.exe.config
+C:\Users\Alexis\Source\Workspaces\Sistema Experto para problemas de atención\SiEdu\SiEdu\obj\Debug\SiEdu.exe
+C:\Users\Alexis\Source\Workspaces\Sistema Experto para problemas de atención\SiEdu\SiEdu\obj\Debug\SiEdu.pdb
+C:\Users\Alexis\Source\Workspaces\Sistema Experto para problemas de atención\SiEdu\SiEdu\bin\Debug\SiEdu.exe
+C:\Users\Alexis\Source\Workspaces\Sistema Experto para problemas de atención\SiEdu\SiEdu\bin\Debug\SiEdu.pdb
+C:\Users\Alexis\Source\Workspaces\Sistema Experto para problemas de atención\SiEdu\SiEdu\obj\Debug\SiEdu.csprojResolveAssemblyReference.cache
+C:\Users\Alexis\Source\Workspaces\Sistema Experto para problemas de atención\SiEdu\SiEdu\obj\Debug\SiEdu.Properties.Resources.resources
+C:\Users\Alexis\Source\Workspaces\Sistema Experto para problemas de atención\SiEdu\SiEdu\obj\Debug\SiEdu.csproj.GenerateResource.Cache
+C:\Users\Alexis\Source\Workspaces\Sistema Experto para problemas de atención\SiEdu\SiEdu\obj\Debug\SiEdu.Principal.resources
+C:\Users\Alexis\Source\Workspaces\Sistema Experto para problemas de atención\SiEdu\SiEdu\obj\Debug\SiEdu.atencion_form.resources

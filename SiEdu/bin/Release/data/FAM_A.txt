@@ -1,0 +1,8 @@
+AltaA AltaI AltaSI
+AltaA AltaI BajaSI
+AltaA BajaI AltaSI
+AltaA BajaI BajaSI
+BajaA AltaI AltaSI
+BajaA AltaI BajaSI
+BajaA BajaI AltaSI
+BajaA BajaI BajaSI
